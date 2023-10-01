@@ -4,6 +4,14 @@ Profissional atuante na área de Garantia de Qualidade (QA) há aproximadamente 
 
 Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minhas responsabilidades técnicas, tenho ocompromisso de fomentar a cultura de qualidade, particularmente a abordagem Shift Left Testing. Quanto às metodologias detrabalho, possuo familiaridade com estruturas ágeis como Scrum e Kanban, aplicando essas metodologias para otimizar oprocesso de desenvolvimento de software. Para acompanhamento de tarefas, utilizo o JIRA como a principal ferramenta.
 
+## Contato 📪
+
+<div> 
+  <a href = "https://wa.me/5511970622533"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncCHHDszXvPTqnrkZTpkCrcxkRcFDcRJJmwPbWhStRqkfFkCfNnScdKZNtZnnCGZBQBKk"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/breno-martinez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ## Tecnologias e Ferramentas
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&log" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" /> <img alt="Swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" />  <img alt="Visual Studio" src="https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" /> <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" /> <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" /> <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -13,14 +21,6 @@ Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minh
   <a href="https://github.com/bemartinex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bemartinex&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemartinex&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-
-## Contato 📪
-
-<div> 
-  <a href = "https://wa.me/5511970622533"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "brehmartinez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-martins-ferreira-martinez-139b6b239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Experiências Profissionais

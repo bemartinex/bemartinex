@@ -1,8 +1,8 @@
 ## Breno Martinez | Analista de Testes/QA 🔎👾
 
-Profissional atuante na área de Garantia de Qualidade (QA) há aproximadamente 1 ano e 8 meses, com uma sólida experiênciaem testes manuais e automatizados. Possuo expertise em diversos tipos de testes, incluindo exploratórios, regressivos, deusabilidade, de fumaça e de API's, utilizando ferramentas como Postman e Swagger. Minhas habilidades se estendem à criaçãode casos de teste e à elaboração de cenários através da escrita BDD (Behavior-Driven Development).
+Profissional atuante na área de Garantia de Qualidade (QA) há aproximadamente 1 ano e 8 meses, com uma sólida experiência em testes manuais e automatizados. Possuo expertise em diversos tipos de testes, incluindo exploratórios, regressivos, deusabilidade, de fumaça e de API's, utilizando ferramentas como Postman e Swagger. Minhas habilidades se estendem à criação de casos de teste e à elaboração de cenários através da escrita BDD (Behavior-Driven Development).
 
-Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minhas responsabilidades técnicas, tenho ocompromisso de fomentar a cultura de qualidade, particularmente a abordagem Shift Left Testing. Quanto às metodologias detrabalho, possuo familiaridade com estruturas ágeis como Scrum e Kanban, aplicando essas metodologias para otimizar oprocesso de desenvolvimento de software. Para acompanhamento de tarefas, utilizo o JIRA como a principal ferramenta.
+Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minhas responsabilidades técnicas, tenho o compromisso de fomentar a cultura de qualidade, particularmente a abordagem Shift Left Testing. Quanto às metodologias de trabalho, possuo familiaridade com estruturas ágeis como Scrum e Kanban, aplicando essas metodologias para otimizar o processo de desenvolvimento de software. Para acompanhamento de tarefas, utilizo o JIRA como a principal ferramenta.
 
 ## Contato 📪
 
@@ -19,8 +19,8 @@ Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minh
 
 <div align="center">
   <a href="https://github.com/bemartinex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bemartinex&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemartinex&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bemartinex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemartinex&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Experiências Profissionais

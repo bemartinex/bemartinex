@@ -1,6 +1,6 @@
 ## Breno Martinez | Analista de Testes/QA 🔎👾
 
-Profissional atuante na área de Garantia de Qualidade (QA) há aproximadamente 1 ano e 8 meses, com uma sólida experiência em testes manuais e automatizados. Possuo expertise em diversos tipos de testes, incluindo exploratórios, regressivos, deusabilidade, de fumaça e de API's, utilizando ferramentas como Postman e Swagger. Minhas habilidades se estendem à criação de casos de teste e à elaboração de cenários através da escrita BDD (Behavior-Driven Development).
+Profissional atuante na área de Garantia de Qualidade (QA) há 2 anos, com uma sólida experiência em testes manuais e automatizados. Possuo expertise em diversos tipos de testes, incluindo exploratórios, regressivos, deusabilidade, de fumaça e de API's, utilizando ferramentas como Postman e Swagger. Minhas habilidades se estendem à criação de casos de teste e à elaboração de cenários através da escrita Gherkin.
 
 Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minhas responsabilidades técnicas, tenho o compromisso de fomentar a cultura de qualidade, particularmente a abordagem Shift Left Testing. Quanto às metodologias de trabalho, possuo familiaridade com estruturas ágeis como Scrum e Kanban, aplicando essas metodologias para otimizar o processo de desenvolvimento de software. Para acompanhamento de tarefas, utilizo o JIRA como a principal ferramenta.
 

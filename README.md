@@ -27,9 +27,6 @@ Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minh
 
 <table>
   <tr>
-    <td>
-      <img width="48" src="https://media.licdn.com/dms/image/D4D0BAQHS7iuY8sgKRA/company-logo_100_100/0/1688494648615?e=1704326400&amp;v=beta&amp;t=N8uDQDxX8KaCCzxoUr7bz0Ils8_KGGP0VHf1I3B97FY" loading="lazy" height="48" alt="Logo da empresa Auditeste" id="ember613" class="ivm-view-attr__img--centered EntityPhoto-square-3 evi-image lazy-image ember-view">
-    </td>
     <td style="text-align: center; vertical-align: middle;">
       <h3 style="margin-center">Auditeste Consultoria</h3>
     </td>
@@ -48,9 +45,6 @@ Atualmente, faço parte de um projeto ágil na Liberty Seguros, assumindo as seg
 
 <table>
   <tr>
-    <td>
-      <img width="48" src="https://media.licdn.com/dms/image/C4D0BAQHzlc1O81avGQ/company-logo_100_100/0/1641584100349?e=1704326400&amp;v=beta&amp;t=Dut151-eL_tcogVlkoc7XUGbCtqKnJBOoLDW5c1Usfs" loading="lazy" height="48"         alt="Logo da empresa Crowdtest" id="ember616" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
-    </td>
     <td style="text-align: center; vertical-align: middle;">
       <h3 style="margin-center">Crowdtest</h3>
     </td>
@@ -62,9 +56,6 @@ Nesta experiência, pude contribuir significativamente para o sucesso desses pro
 
 <table>
   <tr>
-    <td>
-      <img width="48" src="https://media.licdn.com/dms/image/C4E0BAQEfGF_MM6zHeQ/company-logo_100_100/0/1656944451969?e=1704326400&amp;v=beta&amp;t=CUdPFp43wd8EqpTaGb7O9-NgqbVH2jb0qO4aUzD3gws" loading="lazy" height="48"         alt="Logo da empresa Frente Corretora de Câmbio " id="ember617" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
-    </td>
     <td style="text-align: center; vertical-align: middle;">
       <h3 style="margin-center">Frente Corretora de Câmbio</h3>
     </td>

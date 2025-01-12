@@ -1,9 +1,23 @@
-## Breno Martinez | Analista de Testes/QA 🔎👾
+## Breno Martinez | Senior QA Analyst at Sciensa 🔎👾
 
-Profissional atuante na área de Garantia de Qualidade (QA) há 2 anos, com uma sólida experiência em testes manuais e automatizados. Possuo expertise em diversos tipos de testes, incluindo exploratórios, regressivos, deusabilidade, de fumaça e de API's, utilizando ferramentas como Postman e Swagger. Minhas habilidades se estendem à criação de casos de teste e à elaboração de cenários através da escrita Gherkin.
+Profissional na área de Qualidade de Software (QA), atuando como analista de testes, e graduado em Sistemas de Informação. Possui conhecimentos sólidos em fundamentos de testes e nos diversos tipos, incluindo: manual, funcional, regressivo, progressivo, automatizados, API e de fumaça (Smoke Test). <br>
 
-Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minhas responsabilidades técnicas, tenho o compromisso de fomentar a cultura de qualidade, particularmente a abordagem Shift Left Testing. Quanto às metodologias de trabalho, possuo familiaridade com estruturas ágeis como Scrum e Kanban, aplicando essas metodologias para otimizar o processo de desenvolvimento de software. Para acompanhamento de tarefas, utilizo o JIRA como a principal ferramenta.
+Minhas competências técnicas incluem: <br>
+ Linguagens - Java, JavaScript, C# e SQL.<br>
+ Automação - Cypress, Playwright, Selenium WebDriver e Power Automate<br>
+ Frameworks - Allure Reports e Cucumber<br>
+ Gerenciadores de bibliotecas - Maven, NUnit e Node.js<br>
+ API's - Postman e Swagger<br>
+ Performance e carga - JMeter<br>
+ Banco de Dados - SQL Server<br>
+ IDE ’s - Visual Studio e IntelliJ<br>
+ Versionamento de Código | CI/CD - Git, GitHub, GitHub Actions, Git Lab<br>
 
+Tenho um entendimento aprofundado sobre quando e como executar tipos específicos de testes. Em relação à automação, compreendo todo o fluxo necessário, incluindo: documentação, criação de casos e cenários de testes (usando Gherkin), criação de projetos, instalação de dependências, automação web identificando e interagindo com elementos HTML, utilização de Page Objects para organizar o código e facilitar manutenções futuras, geração de relatórios, versionamento no GitHub e configuração de pipelines de CI/CD (Integração Contínua e Entrega Contínua). Além disso, utilizo o JIRA para acompanhamento e gestão de tarefas.<br>
+
+Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, e já atuei em empresas dos setores de seguro e câmbio.<br>
+
+Busco sempre garantir a qualidade das entregas e a satisfação dos stakeholders, alinhando as práticas de QA às necessidades e expectativas dos projetos em que estou envolvido.
 ## Contato 📪
 
 <div> 
@@ -24,60 +38,5 @@ Minha abordagem é hands-on e voltada para resultados e qualidade. Além de minh
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bemartinex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemartinex&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-## Experiências Profissionais
-
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <h3 style="margin-center">Auditeste Consultoria</h3>
-    </td>
-  </tr>
-</table>
-Atualmente, faço parte de um projeto ágil na Liberty Seguros, assumindo as seguintes responsabilidades:<br><br>
-• Responsável pela especificação e homologação dos processos relacionados à área de Sinistros.<br>
-• Faço parte das principais cerimônias do ciclo ágil, como Sprint Planning, Daily, Retrospectiva, Review e Refinamentos, contribuindo para o planejamento e avaliação contínua do projeto.<br>
-• Realizo diferentes tipos de testes, incluindo testes manuais, funcionais, de regressão, exploratórios e testes de fumaça (Smoke Test), garantindo a qualidade do software em desenvolvimento.<br>
-• Utilizo a plataforma JIRA para monitorar e gerenciar tarefas, assegurando que o trabalho seja acompanhado e concluído de acordo com os requisitos do projeto.<br>
-• Participo ativamente do planejamento, modelagem e elaboração de cenários e casos de testes, garantindo uma cobertura abrangente dos requisitos.<br>
-• Utilizo a abordagem Behavior-Driven Development (BDD) para criar cenários de teste com foco no comportamento esperado do software.<br>
-• Desenvolvo scripts de automação de testes para testes de aplicativos web, tornando o processo de teste mais eficiente e repetível.<br>
-• Utilizo ferramentas como Postman e Swagger para testar e interagir com APIs, garantindo a integridade das operações relacionadas a serviços web.<br>
-• Acesso o banco de dados exclusivamente para fins de consulta e verificação de dados, sem realizar alterações.<br><br>
-
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <h3 style="margin-center">Crowdtest</h3>
-    </td>
-  </tr>
-</table>
-Participei de projetos de grandes empresas, tais como Banco do Brasil, Itaú, Crefisa, Serasa, Clinicorp, e muitas outras. Minha responsabilidade incluía a realização de testes exploratórios e funcionais em features específicas. Na plataforma, eu elaborava casos de teste e cenários, e para cada bug encontrado, desempenhava a gestão, documentação e anexava evidências.<br><br>
-
-Nesta experiência, pude contribuir significativamente para o sucesso desses projetos, garantindo a qualidade e a confiabilidade das aplicações por meio da identificação e correção de problemas. Minha habilidade em conduzir testes detalhados e minuciosos ajudou a melhorar a experiência do usuário e a evitar potenciais falhas.
-
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <h3 style="margin-center">Frente Corretora de Câmbio</h3>
-    </td>
-  </tr>
-</table>
-QUALITY ASSURANCE (QA)
-• Participação em cerimonias do ágil (SCRUM)<br>
-• Utilização da ferramenta JIRA para monitoramento de tarefas.<br>
-• Testes de API's e requisições no Postman.<br>
-• Criação de casos de testes em BDD.<br>
-• Testes exploratórios.<br>
-• Testes em banco de dados relacionais.<br><br>
-
-BUSINESS INTELLIGENCE
-• Elaboração de Dashboards<br>
-• Visão Analítica<br>
-• Manipulação de dados<br>
-• PgAdmin<br>
-• MongoDB<br>
-• SQL<br>
-• Excel<br>
 
 ##

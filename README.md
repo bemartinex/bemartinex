@@ -1,10 +1,12 @@
 ## Breno Martinez | Senior QA Analyst at Sciensa 🔎👾
 
-Profissional na área de Qualidade de Software (QA), atuando como analista de testes, e graduado em Sistemas de Informação. Possui conhecimentos sólidos em fundamentos de testes e nos diversos tipos, incluindo: manual, funcional, regressivo, progressivo, automatizados, API e de fumaça (Smoke Test). <br>
+Profissional da área de Qualidade de Software (QA), atuando como Analista de Testes Sênior. Graduado em Sistemas de Informação, atualmente cursando pós-graduação em Testes de Software e DevOps. Possui sólidos conhecimentos em fundamentos de testes e em diversos tipos, incluindo testes manuais, funcionais, regressivos, progressivos, automatizados, de API e de fumaça (Smoke Test). <br>
+
 
 Minhas competências técnicas incluem: <br>
+
  Linguagens - Java, JavaScript, C# e SQL.<br>
- Automação - Cypress, Playwright, Selenium WebDriver e Power Automate<br>
+ Automação - Cypress, Playwright, Selenium WebDriver, Power Automate e Katalon<br>
  Frameworks - Allure Reports e Cucumber<br>
  Gerenciadores de bibliotecas - Maven, NUnit e Node.js<br>
  API's - Postman e Swagger<br>
@@ -13,11 +15,15 @@ Minhas competências técnicas incluem: <br>
  IDE ’s - Visual Studio e IntelliJ<br>
  Versionamento de Código | CI/CD - Git, GitHub, GitHub Actions, Git Lab<br>
 
+
 Tenho um entendimento aprofundado sobre quando e como executar tipos específicos de testes. Em relação à automação, compreendo todo o fluxo necessário, incluindo: documentação, criação de casos e cenários de testes (usando Gherkin), criação de projetos, instalação de dependências, automação web identificando e interagindo com elementos HTML, utilização de Page Objects para organizar o código e facilitar manutenções futuras, geração de relatórios, versionamento no GitHub e configuração de pipelines de CI/CD (Integração Contínua e Entrega Contínua). Além disso, utilizo o JIRA para acompanhamento e gestão de tarefas.<br>
 
 Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, e já atuei em empresas dos setores de seguro e câmbio.<br>
 
+Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, e já atuei em empresas dos setores de seguro e câmbio.<br>
+
 Busco sempre garantir a qualidade das entregas e a satisfação dos stakeholders, alinhando as práticas de QA às necessidades e expectativas dos projetos em que estou envolvido.
+
 ## Contato 📪
 
 <div> 

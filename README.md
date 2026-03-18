@@ -1,26 +1,21 @@
 ## Breno Martinez | Senior QA Analyst at Sciensa 🔎👾
 
-Profissional da área de Qualidade de Software (QA), atuando como Analista de Testes Sênior. Graduado em Sistemas de Informação, atualmente cursando pós-graduação em Testes de Software e DevOps. Possui sólidos conhecimentos em fundamentos de testes e em diversos tipos, incluindo testes manuais, funcionais, regressivos, progressivos, automatizados, de API e de fumaça (Smoke Test). <br>
+Profissional de Qualidade de Software (QA), com atuação como Analista de Testes. Graduado em Sistemas de Informação e pós-graduado em Testes de Software. Possui conhecimentos sólidos em fundamentos de testes e nos diversos tipos, incluindo: manual, funcional, regressivo, carga/performance, automatizados, API e de fumaça (Smoke Test).
 
+Minhas competências técnicas incluem: 
 
-Minhas competências técnicas incluem: <br>
+ Linguagens - Java, JavaScript, C# e SQL.
+ Automação - Cypress, Playwright, Selenium WebDriver e Power Automate
+ Frameworks - Allure Reports e Cucumber
+ Gerenciadores de bibliotecas - Maven, NUnit e Node.js
+ API's - Postman e Swagger
+ Performance e carga - JMeter
+ Banco de Dados - SQL Server
+ IDE ’s - Visual Studio e IntelliJ
+ Versionamento de Código | CI/CD - Git, GitHub, GitHub Actions, Git Lab
+ Monitoramento e eventos - Datadog e Apache Kafka
 
- Linguagens - Java, JavaScript, C# e SQL.<br>
- Automação - Cypress, Playwright, Selenium WebDriver, Power Automate e Katalon<br>
- Frameworks - Allure Reports e Cucumber<br>
- Gerenciadores de bibliotecas - Maven, NUnit e Node.js<br>
- API's - Postman e Swagger<br>
- Performance e carga - JMeter<br>
- Banco de Dados - SQL Server<br>
- IDE ’s - Visual Studio e IntelliJ<br>
- Versionamento de Código | CI/CD - Git, GitHub, GitHub Actions, Git Lab<br>
-
-
-Tenho um entendimento aprofundado sobre quando e como executar tipos específicos de testes. Em relação à automação, compreendo todo o fluxo necessário, incluindo: documentação, criação de casos e cenários de testes (usando Gherkin), criação de projetos, instalação de dependências, automação web identificando e interagindo com elementos HTML, utilização de Page Objects para organizar o código e facilitar manutenções futuras, geração de relatórios, versionamento no GitHub e configuração de pipelines de CI/CD (Integração Contínua e Entrega Contínua). Além disso, utilizo o JIRA para acompanhamento e gestão de tarefas.<br>
-
-Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, e já atuei em empresas dos setores de seguro e câmbio.<br>
-
-Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, e já atuei em empresas dos setores de seguro e câmbio.<br>
+Meu perfil é analítico e detalhista. Entendo o ciclo de desenvolvimento como um todo e sei a importância de cada função, além de como interagir com todos os envolvidos para garantir a qualidade das entregas. Tenho experiência em projetos utilizando metodologias Ágeis (Scrum) e Agile Cascata, além disso, utilizo o JIRA para acompanhamento e gestão de tarefas. Já atuei em empresas dos setores de seguro, câmbio e bancario.
 
 Busco sempre garantir a qualidade das entregas e a satisfação dos stakeholders, alinhando as práticas de QA às necessidades e expectativas dos projetos em que estou envolvido.
 

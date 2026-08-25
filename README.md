@@ -1,4 +1,4 @@
-## Breno Martinez | Senior QA Analyst at Sciensa 🔎👾
+## Breno Martinez | Senior QA Analyst 🔎👾
 
 Profissional de Qualidade de Software (QA), com atuação como Analista de Testes. Graduado em Sistemas de Informação e pós-graduado em Testes de Software. Possui conhecimentos sólidos em fundamentos de testes e nos diversos tipos, incluindo: manual, funcional, regressivo, carga/performance, automatizados, API e de fumaça (Smoke Test).
 
